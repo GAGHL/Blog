@@ -1,7 +1,3 @@
-کتابخونه‌ی <a href="https://github.com/GAGHL/GAGHL_AVR_UART" target="_blank">GAGHL_AVR_UART</a><br>
-کتابخونه‌ی <a href="https://github.com/GAGHL/GAGHL_AVR_GPIO" target="_blank">GAGHL_AVR_GPIO</a><br>
-کتابخونه‌ی <a href="https://github.com/GAGHL/GAGHL_AVR_BUTTON_HANDLER" target="_blank">GAGHL_AVR_BUTTON_HANDLER</a><br>
-کتابخونه‌ی <a href="https://github.com/GAGHL/GAGHL_AVR_NEOPIXEL" target="_blank">GAGHL_AVR_NEOPIXEL</a>
 ---
 title: "کتابخانه های AVR"
 excerpt_separator: "<!--more-->"
