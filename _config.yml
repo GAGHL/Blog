@@ -81,7 +81,7 @@ plugins:
 author:
   name   : "GAGHL"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "سلام. خوش اومدید! این وبلاگ شخصی من هست"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
