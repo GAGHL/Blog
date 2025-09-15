@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "پست ها"
 permalink: /posts/
 layout: posts
 author_profile: true
