@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GAGHL
-email: 
+title: "Abbas Ghalavandi | عباس قلاوندی"
+email: ns.gaghl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "وبلاگ شخصی من"
 twitter_username: username
 github_username: GAGHL
 minimal_mistakes_skin: default
@@ -26,6 +24,9 @@ search: true
 
 locale: "fa-IR"
 rtl: "true"
+lang: "fa"
+minimal_mistakes_skin: "default"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -34,10 +35,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: IR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-lang: fa
-dir: rtl
-direction: rtl
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
