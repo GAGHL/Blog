@@ -24,6 +24,8 @@ github_username: GAGHL
 minimal_mistakes_skin: default
 search: true
 
+locale: "fa-IR"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -31,14 +33,32 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: IR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+lang: fa
+dir: rtl
+direction: rtl
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "Abbas"
+disqus: "Abbas Ghalavandi"
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: "G-DLWH915MD2"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DLWH915MD2"
+    anonymize_ip: false # default
+    
+#google_site_verification: "BVwx9je8Sv6HbUTtZ4yJrPvJLZzE0wEsPS2VJHQzOKo"    
 
 include:
   - _pages
-
-# Enable multilingual support
-languages: ["fa", "en"]
-default_lang: "fa"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -62,7 +82,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "GAGHL"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -74,7 +94,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/GAGHL"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
