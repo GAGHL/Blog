@@ -81,7 +81,7 @@ plugins:
 author:
   name   : "عباس"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ".سلام. خوش اومدید! این وبلاگ شخصی من هست"
+  bio    : "دانشجوی مهندسی برق"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
