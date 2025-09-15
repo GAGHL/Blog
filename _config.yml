@@ -16,7 +16,7 @@
 title: "عباس قلاوندی"
 email: ns.gaghl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "وبلاگ شخصی من"
+  "این وبلاگ شخصی من است"
 twitter_username: username
 github_username: GAGHL
 minimal_mistakes_skin: default
@@ -81,14 +81,14 @@ plugins:
 author:
   name   : "عباس"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "سلام. خوش اومدید! این وبلاگ شخصی من هست"
+  bio    : ".سلام. خوش اومدید! این وبلاگ شخصی من هست"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GAGHL"
@@ -98,9 +98,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
